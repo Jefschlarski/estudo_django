@@ -5,7 +5,7 @@
 __pycache__
 db.sqlite3
 media
-
+project/local_settings.py
 # Backup files # 
 *.bak 
 
@@ -67,7 +67,8 @@ wheels/
 *.egg 
 *.manifest 
 *.spec 
-
+static/
+media/
 # Installer logs 
 pip-log.txt 
 pip-delete-this-directory.txt 
